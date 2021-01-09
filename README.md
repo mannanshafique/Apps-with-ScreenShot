@@ -6,7 +6,7 @@
 
 ### Flutter Framework
 --------------------
-#### [School App (Using Flutter)]
+#### School App (Using Flutter)
 <img src="https://user-images.githubusercontent.com/58309881/104091424-22ad6a00-529f-11eb-9e78-4ba0b92b86c0.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/104091426-23de9700-529f-11eb-900d-b378ea9048f5.jpeg" width="200" height="420">
 <img src="https://user-images.githubusercontent.com/58309881/104091427-24772d80-529f-11eb-8cdb-205bed5dc680.jpeg" width="200" height="420">
 <img src="https://user-images.githubusercontent.com/58309881/104091428-250fc400-529f-11eb-8ea3-6e8eac804ef8.jpeg" width="200" height="420">
