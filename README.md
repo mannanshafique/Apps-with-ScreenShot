@@ -7,11 +7,11 @@
 ### Flutter Framework
 --------------------
 #### [School App (Using Flutter)]
-<img src="https://user-images.githubusercontent.com/58309881/104091424-22ad6a00-529f-11eb-9e78-4ba0b92b86c0.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/104091426-23de9700-529f-11eb-900d-b378ea9048f5.jpeg" width="200" height="400"><img src="https://user-images.githubusercontent.com/58309881/104091427-24772d80-529f-11eb-8cdb-205bed5dc680.jpeg" width="240" height="400">
-<img src="https://user-images.githubusercontent.com/58309881/104091428-250fc400-529f-11eb-8ea3-6e8eac804ef8.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/58309881/104091430-25a85a80-529f-11eb-8979-1d7ae5b06df7.jpeg" width="240" height="400">
-<img src="https://user-images.githubusercontent.com/58309881/104091431-2640f100-529f-11eb-8572-065f3a457ad9.jpeg" width="240" height="400">
-<img src="https://user-images.githubusercontent.com/58309881/104091432-26d98780-529f-11eb-8263-89ccafaafe06.jpeg" width="240" height="400"></br>
+<img src="https://user-images.githubusercontent.com/58309881/104091424-22ad6a00-529f-11eb-9e78-4ba0b92b86c0.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/104091426-23de9700-529f-11eb-900d-b378ea9048f5.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/104091427-24772d80-529f-11eb-8cdb-205bed5dc680.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/104091428-250fc400-529f-11eb-8ea3-6e8eac804ef8.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/104091430-25a85a80-529f-11eb-8979-1d7ae5b06df7.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/104091431-2640f100-529f-11eb-8572-065f3a457ad9.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/104091432-26d98780-529f-11eb-8263-89ccafaafe06.jpeg" width="200" height="420"></br>
 #### [Recipe App (Using Flutter)](https://github.com/mannanshafique/Recipe-App-using-Flutter).</br>
 <img src="https://user-images.githubusercontent.com/58309881/89739174-ee3b4500-da97-11ea-8015-c010b9fff50e.png" width="240" height="400"><img src="https://user-images.githubusercontent.com/58309881/89739176-f09d9f00-da97-11ea-92ad-bd8f597e064a.png" width="240" height="400">
 <img src="https://user-images.githubusercontent.com/58309881/89739179-f6938000-da97-11ea-9693-d23bbea1fbc6.png" width="240" height="400"></br>
