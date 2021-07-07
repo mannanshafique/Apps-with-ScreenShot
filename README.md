@@ -2,10 +2,20 @@
 
 ### Hello, I'm Muhammad Mannan Shafique 👋
 
-####  In this repository i compilied my (Favourite Apps) which i developed with self-motivation.
+####  In this repository i compiled my (Favourite Apps) which i developed with self-motivation.
 
 ### Flutter Framework
 --------------------
+#### Unique Pattern Painter App (Using Flutter)
+<img src="https://user-images.githubusercontent.com/58309881/124825260-d6608f80-df8c-11eb-9f6d-6737fd2f53e1.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/124825293-df516100-df8c-11eb-93d1-497718282365.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825308-e37d7e80-df8c-11eb-82e4-a27527a3e773.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825328-ea0bf600-df8c-11eb-95b8-e0ebc60eea3d.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825336-ed06e680-df8c-11eb-8c3a-652aee944bc2.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825355-f3955e00-df8c-11eb-97f8-dbb1d484385b.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825384-f8f2a880-df8c-11eb-8ea0-2c7026dc622c.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825390-fb550280-df8c-11eb-82b6-4f39ab64f167.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825401-fdb75c80-df8c-11eb-97fc-4467f1554d79.jpeg" width="200" height="420">
+<img src="https://user-images.githubusercontent.com/58309881/124825434-0c9e0f00-df8d-11eb-8af4-ce70048477bb.jpeg" width="200" height="420"></br>
 #### School App (Using Flutter)
 <img src="https://user-images.githubusercontent.com/58309881/104091424-22ad6a00-529f-11eb-9e78-4ba0b92b86c0.jpeg" width="200" height="420"><img src="https://user-images.githubusercontent.com/58309881/104091426-23de9700-529f-11eb-900d-b378ea9048f5.jpeg" width="200" height="420">
 <img src="https://user-images.githubusercontent.com/58309881/104091427-24772d80-529f-11eb-8cdb-205bed5dc680.jpeg" width="200" height="420">
