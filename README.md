@@ -23,6 +23,18 @@ Hello, I'm Muhammad Mannan Shafique 👋 I am an enthusiastic Flutter Developer 
 <img src="https://user-images.githubusercontent.com/58309881/140572387-3bba9ab0-3085-450b-b74f-cb5aa1909ebd.png" width="220" height="420"> &nbsp;
 <img src="https://user-images.githubusercontent.com/58309881/140572388-694e4e76-29fe-4bce-b054-fb6d21536250.png" width="220" height="420"> &nbsp;
 
+#### Zerk App (Using Flutter)
+<img src="https://user-images.githubusercontent.com/58309881/141682051-049cec54-a9fa-43fb-bf0b-495b3d1cb3cc.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682053-7dcd883f-3e66-439c-b620-4c2de85e14d7.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682054-a15be903-35bd-4a64-87c1-4f7a95f97036.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682056-bfb0fda7-13f3-4202-a8a0-da6108566855.png" width="220" height="420"> &nbsp; 
+
+#### Bakery Shop App (Using Flutter)
+<img src="https://user-images.githubusercontent.com/58309881/141682041-ce35d5ca-7129-44c0-99d5-f279fa771476.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682045-81c6e72e-9cb6-4785-b10a-e617eb98e347.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682049-70478832-1771-4fb1-8161-9d3c9fc45547.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/141682050-ac5ced56-4258-4bce-be7a-6a918c992d65.png" width="220" height="420"> &nbsp;
+
 #### Unique Pattern Painter App (Using Flutter)
 <img src="https://user-images.githubusercontent.com/58309881/124825260-d6608f80-df8c-11eb-9f6d-6737fd2f53e1.jpeg" width="200" height="420"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/58309881/124825293-df516100-df8c-11eb-93d1-497718282365.jpeg" width="200" height="420"> &nbsp; 
