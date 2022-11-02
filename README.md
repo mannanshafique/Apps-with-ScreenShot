@@ -6,11 +6,21 @@ Google Map Integration,</br>
 Google Sheet Integration,</br>
 Firebase Integration,</br>
 Rest Api Integration,</br>
+Biometric (Fingerprint, faceID)</br>
 Stripe Payment Integration,</br>
 Qr Code Scanner/Generator Integration,</br>
 
 
 --------------------
+#### Adeeg Ecommerce App (Using Flutter)
+<img src="https://user-images.githubusercontent.com/58309881/199445750-086782da-5677-4afd-8641-cb15acb5ce52.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/199445768-9cb49f23-d423-4e5d-ab3a-44683111b3c4.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/199445780-66a72567-de79-4cd5-9db9-36ad89d79f7b.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/199445794-7d9295ea-b0ea-40f6-b173-14467e57aec2.png" width="220" height="420"> &nbsp; 
+<img src="https://user-images.githubusercontent.com/58309881/199445802-00838fd4-ea36-45fb-8672-8017f32ea299.png" width="220" height="420"> &nbsp;
+<img src="https://user-images.githubusercontent.com/58309881/199445805-e3486e21-6ee2-44e2-b6ff-c705ccd934d4.png" width="220" height="420"> &nbsp;
+<img src="https://user-images.githubusercontent.com/58309881/199445815-de7a6b68-b783-45c5-bea6-c3142fad4193.png" width="220" height="420"> &nbsp;
+
 #### Ecommerce B2C App (Using Flutter)
 <img src="https://user-images.githubusercontent.com/58309881/139797486-e953f7d0-3698-43c4-82ba-5222a0bd051d.png" width="220" height="420"> &nbsp; 
 <img src="https://user-images.githubusercontent.com/58309881/139797175-1f21f815-5ce3-46ed-93aa-58a7afd22fc8.png" width="220" height="420"> &nbsp; 
