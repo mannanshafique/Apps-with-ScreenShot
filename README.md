@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello, I'm Muhammad Mannan Shafique 👋 I am an enthusiastic Flutter Developer with more than 1 years of extensive experience in developing a wide range of mobile applications. </br>
+Hello, I'm Muhammad Mannan Shafique 👋 I am an enthusiastic Flutter Developer with more than 2 years of extensive experience in developing a wide range of mobile applications. </br>
 #### Expertise :</br>
 Google Map Integration,</br>
 Google Sheet Integration,</br>
